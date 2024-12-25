@@ -1,0 +1,11 @@
+name: DeleteMVInvPlugin
+version: 1.0.0
+main: com.lwsnr.delmvinv.DeleteMVInvPlugin
+api-version: 1.13
+author: dhernos
+commands:
+  delmvinv:
+    description: Delete folders in Multiverse-Inventories
+    usage: /delmvinv <argument>
+    permission: delmvinv.use
+    permission-message: You do not have permission to use this command.
